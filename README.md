@@ -1,2 +1,7 @@
 # 360-degree-Image-Viewer
-360 degree Image viewer
+
+This viewer support equirectangular image.
+
+
+
+https://giphy.com/gifs/L0O0WtyxFQOBoLDH8v/html5
