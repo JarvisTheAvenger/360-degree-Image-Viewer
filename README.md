@@ -1,6 +1,6 @@
 # 360-degree-Image-Viewer
 
-This viewer support equirectangular image.
+This viewer support equirectangular images.
 
 
 
