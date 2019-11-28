@@ -4,4 +4,4 @@ This viewer support equirectangular image.
 
 
 
-https://giphy.com/gifs/L0O0WtyxFQOBoLDH8v/html5
+https://media.giphy.com/media/L0O0WtyxFQOBoLDH8v/giphy.gif
